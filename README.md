@@ -2,4 +2,4 @@ This is a donut formatted version of [this code](https://github.com/RandomThings
 
 It's pretty ugly and can definitly be improved, but not a lot. Python is limited!
 
-To achieve this i had to rename variables, put aliases for functions, bad optimisation, ugly as hell whitespace, long comments, `ìf 0:1;` and more.
+To achieve this i had to rename variables, put aliases for functions, bad optimisation, ugly as hell whitespace, long comments, `if 0:1;` and more.
